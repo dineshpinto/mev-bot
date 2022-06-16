@@ -38,7 +38,7 @@ rollup providers on Optimism etc.).
 + [Mechanism Design Basics - Roughgarden](https://timroughgarden.org/f13/l/l2.pdf)
 + [SoK: Transparent Dishonesty: front-running attacks on Blockchain - Eskandari et. al.](https://arxiv.org/abs/1902.05164)
 + [Winner determination in combinatorial auction generalizations - Sandholm et. al.](https://www.cs.cmu.edu/~sandholm/generalizations.aamas02.pdf)
-+ [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511v2.pdf)
++ [Quantifying Blockchain Extractable Value: How dark is the forest? - Qin et. al.](https://arxiv.org/pdf/2101.05511v2.pdf)
 + [A2MM: Mitigating Frontrunning, Transaction Reordering and Consensus Instability in Decentralized Exchanges - Zhou et. al.](https://arxiv.org/pdf/2106.07371.pdf)
 + [Maximizing Extractable Value from Automated Market Makers - Bartoletti et. al.](https://arxiv.org/pdf/2106.01870.pdf)
 + [Cyclic Arbitrage in Decentralized Exchanges - Wang et. al.](https://arxiv.org/pdf/2105.02784.pdf)
