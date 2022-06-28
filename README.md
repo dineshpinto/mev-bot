@@ -82,3 +82,11 @@ However, the goal here is to understand how MEV works, implement some basic stra
 and eventually apply that to _long-tail_ MEV strats that have a higher EV.
 For an example of a long tail strat
 see [this Chainsight Twitter thread](https://twitter.com/ChainsightLabs/status/1460824051010744327?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1460824051010744327%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcalblockchain.mirror.xyz%2Fc56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o).
+
+
+# Disclaimer
+This project is for educational purposes only. You should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained here constitutes a solicitation, recommendation, endorsement, or offer by me or any third party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.
+
+If you plan to use real money, use at your own risk.
+
+Under no circumstances will I be held responsible or liable in any way for any claims, damages, losses, expenses, costs, or liabilities whatsoever, including, without limitation, any direct or indirect damages for loss of profits.
